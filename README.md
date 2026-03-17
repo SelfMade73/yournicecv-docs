@@ -2,7 +2,7 @@
 
 **YourNiceCV** is a free AI-powered CV builder designed to help you create professional, ATS-friendly resumes in minutes.
 
-👉 Try it here: https://yournicecv.com
+👉 Try it here: [https://yournicecv.com](https://yournicecv.com)
 
 ---
 
@@ -20,13 +20,13 @@
 
 Explore real CV examples for different roles:
 
-* Software Engineer CV → https://yournicecv.com/cv-examples/software-engineer
-* Data Analyst CV → https://yournicecv.com/cv-examples/data-analyst
-* Data Scientist CV → https://yournicecv.com/cv-examples/data-scientist
-* Frontend Developer CV → https://yournicecv.com/cv-examples/frontend-developer
-* DevOps Engineer CV → https://yournicecv.com/cv-examples/devops-engineer
+* [Software Engineer CV](https://yournicecv.com/cv-examples/software-engineer)
+* [Data Analyst CV](https://yournicecv.com/cv-examples/data-analyst)
+* [Data Scientist CV](https://yournicecv.com/cv-examples/data-scientist)
+* [Frontend Developer CV](https://yournicecv.com/cv-examples/frontend-developer)
+* [DevOps Engineer CV](https://yournicecv.com/cv-examples/devops-engineer)
 
-👉 More examples: https://yournicecv.com/cv-examples
+👉 [More examples](https://yournicecv.com/cv-examples)
 
 ---
 
@@ -34,33 +34,33 @@ Explore real CV examples for different roles:
 
 Learn how to improve your resume and pass ATS filters:
 
-* ATS Optimization Guide → https://yournicecv.com/cv-tips/ats-optimization
-* Career Change Resume Tips → https://yournicecv.com/cv-tips/career-change-resume
+* [ATS Optimization Guide](https://yournicecv.com/cv-tips/ats-optimization)
+* [Career Change Resume Tips](https://yournicecv.com/cv-tips/career-change-resume)
 
-👉 More tips: https://yournicecv.com/cv-tips
+👉 [More tips](https://yournicecv.com/cv-tips)
 
 ---
 
 ## 💼 Career Guides
 
-* Salary Negotiation Tips → https://yournicecv.com/career-guides/salary-negotiation-tips
+* [Salary Negotiation Tips](https://yournicecv.com/career-guides/salary-negotiation-tips)
 
-👉 All guides: https://yournicecv.com/career-guides
+👉 [All guides](https://yournicecv.com/career-guides)
 
 ---
 
 ## 📑 Cover Letter Examples
 
-* Cover Letter Examples → https://yournicecv.com/cover-letter-examples
+* [Cover Letter Examples](https://yournicecv.com/cover-letter-examples)
 
 ---
 
 ## 🤖 Why ATS-Friendly Resume Matters
 
-Most companies use Applicant Tracking Systems (ATS) to filter resumes.
+Most companies use Applicant Tracking Systems (ATS) to filter resumes.  
 YourNiceCV helps you create resumes that are optimized for ATS and increase your chances of getting interviews.
 
-👉 Learn more: https://yournicecv.com/ats-guide
+👉 [Learn more](https://yournicecv.com/ats-guide)
 
 ---
 
@@ -68,12 +68,10 @@ YourNiceCV helps you create resumes that are optimized for ATS and increase your
 
 YourNiceCV is built to simplify the resume creation process using AI and modern UX.
 
-👉 Start building your CV: https://yournicecv.com
+👉 [Start building your CV](https://yournicecv.com)
 
 ---
 
 ## 📌 Keywords (for search)
 
 CV builder, resume builder, ATS resume, resume examples, CV templates, cover letter examples, job application tools
-
----
